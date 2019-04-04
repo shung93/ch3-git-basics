@@ -1,6 +1,6 @@
 # Chapter 3 Exercises
 
-My name is Sam
+My name is GEORGE
 
 This repository contains programming exercises for using git and GitHub, 
 based on [Chapter 3](https://infx511.github.io/git-basics.html) 
