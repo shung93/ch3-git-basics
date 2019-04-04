@@ -1,5 +1,7 @@
 # Chapter 3 Exercises
 
+My name is Sam
+
 This repository contains programming exercises for using git and GitHub, 
 based on [Chapter 3](https://infx511.github.io/git-basics.html) 
 of the [Introduction to Programming for Information and Data Science](https://infx511.github.io/) course book. 
